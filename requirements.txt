@@ -4,4 +4,4 @@ openpyxl
 plotly
 azure-storage-blob
 python-dotenv
-
+matplotlib
